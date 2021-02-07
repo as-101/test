@@ -6,3 +6,4 @@ Here is some extra detail:
 abcdefghijklmnopqrstuvwxyz
 
 Here is some extra detail added on your local machine.
+Here is some extra detail added on your local machine after you set the correct name and email on your global git configs. 
